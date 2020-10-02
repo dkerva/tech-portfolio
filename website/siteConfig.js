@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Deepa Kalkunte' // Title for your website.
-    tagline: 'getting comfortable being uncomfortable',
+    tagline: 'getting comfortable being uncomfortable', // notsure why this is not working
     profilePhoto: 'img/profile.png',
     url: 'https://dkerva.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
